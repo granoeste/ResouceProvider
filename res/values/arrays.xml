@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="icon_pack">
+        <item>ex1</item>
+        <item>ex2</item>
+        <item>ex3</item>
+        <item>ex4</item>
+        <item>ex5</item>
+        <item>ex6</item>
+        <item>ex7</item>
+        <item>ex8</item>
+        <item>ex9</item>
+    </string-array>
+
+</resources>
